@@ -6,6 +6,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
+// NPM INSTALL REACT-ROUTER-DOM. IMPORT {BROWSER ROUTER} AND WRAP <APP/> AND IMPORT {LINK, ROUTE} IN APP.JS
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
